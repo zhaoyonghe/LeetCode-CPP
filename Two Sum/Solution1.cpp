@@ -8,7 +8,6 @@ public:
 		std::unordered_map<int, int> map;
 		std::vector<int> result;
 		for (unsigned int i = 0; i < nums.size(); i++) {
-			//cout << "fds" << endl;
 			auto it = map.find(nums[i]);
 			if (it == map.end()) {
 				map[target - nums[i]] = i;
