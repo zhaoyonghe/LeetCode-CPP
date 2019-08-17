@@ -1,3 +1,5 @@
+// 12, 93.62
+
 #include <vector>
 #include <iostream>
 #include <unordered_map>
