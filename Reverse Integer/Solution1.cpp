@@ -1,6 +1,6 @@
 // 4, 87.04
 
-#include <vector>
+#include<vector>
 
 using namespace std;
 

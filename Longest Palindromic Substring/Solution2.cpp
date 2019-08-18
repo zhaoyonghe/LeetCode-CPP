@@ -1,6 +1,6 @@
 // 24, 86.44
 
-#include <string>
+#include<string>
 
 class Solution2 {
 public:

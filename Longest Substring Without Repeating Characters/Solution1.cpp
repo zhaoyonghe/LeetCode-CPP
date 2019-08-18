@@ -1,6 +1,6 @@
 // 8, 96.74
 
-#include <string>
+#include<string>
 
 using namespace std;
 
