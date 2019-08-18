@@ -5,7 +5,7 @@
 
 using namespace std;
 
-class Solution {
+class Solution1 {
 public:
     string longestPalindrome(string s) {
         if (s.length() == 0) {

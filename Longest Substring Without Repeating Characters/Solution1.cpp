@@ -4,7 +4,7 @@
 
 using namespace std;
 
-class Solution {
+class Solution1 {
 public:
     int lengthOfLongestSubstring(string s) {
         if (s.length() == 0) {

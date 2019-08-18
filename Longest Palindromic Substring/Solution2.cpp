@@ -2,7 +2,7 @@
 
 #include <string>
 
-class Solution {
+class Solution2 {
 public:
     string longestPalindrome(string s) {
         if (s.length() < 2) {
