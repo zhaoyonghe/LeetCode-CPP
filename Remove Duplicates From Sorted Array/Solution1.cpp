@@ -1,6 +1,6 @@
 // 24, 97.66
 
-#include <vector>
+#include<vector>
 
 using namespace std;
 
