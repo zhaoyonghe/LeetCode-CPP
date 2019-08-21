@@ -12,7 +12,7 @@ struct TreeNode {
 	TreeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
-class Solution1 {
+class Solution2 {
 public:
 
 	int rob(TreeNode* root) {
